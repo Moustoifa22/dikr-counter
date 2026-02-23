@@ -1,0 +1,22 @@
+{
+  "name": "Compteur de Dikr",
+  "short_name": "Dikr",
+  "description": "Compteur de dikr islamique avec vibration",
+  "start_url": "./dikr_counter.html",
+  "display": "standalone",
+  "background_color": "#0d1b2a",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
